@@ -6,7 +6,7 @@ Meant as a way to dive deeper into JS, while also using it to create something u
 
 The main goal of this bot is to create a quick way to receive Tarkov item info by using the [Tarkov Dev API](https://tarkov.dev/). 
 
-#Progress
+# Progress
 
 Aside from creating basic Discord commands and interactions, I can receive GraphQL entries from the tarkov API and parse these to output what the user needs. 
 
